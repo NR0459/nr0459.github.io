@@ -1,0 +1,45 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+body{
+	
+	font-family: 'Lato', sans-serif;
+	color: #002d60;
+	font-weight: 300;
+}
+
+.text-thin{
+	font-weight: 100;
+}
+
+.title-super{
+	font-size: 55px;
+}
+
+.title-logo{
+	margin-top:20px;
+}
+
+.profile-img{
+	margin-top: 60px;
+}
+
+.shadow-margin{
+	margin-top: -20px;
+}
+
+.profile-sec{
+	background-color: #ecf0f1;
+}
+.main-sec{
+	background-color: #ffffff;
+}
+
+.main_image_prfile_sec{
+	padding-bottom: 14px;
+}
+	
+hr{
+	border-bottom: 1px solid #7B7777;
+}
